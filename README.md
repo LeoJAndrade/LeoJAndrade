@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)](https://godr4zor.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/029/178/822/original/data-science-banner-web-icon-illustration-concept-with-icon-of-analysis-structure-algorithm-process-programming-solving-knowledge-vector.jpg)](https://godr4zor.io)
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A Data Scientist 🎲</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
