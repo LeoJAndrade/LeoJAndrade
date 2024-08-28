@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learn**
 
-- 📝 I regularly write articles on [Data Analysis and Machine Learn algorithms](Data Analysis and Machine Learn algorithms)
+- 📝 I regularly write articles on **Data Analysis and Machine Learn algorithms**
 
 - 💬 Ask me about **Data concepts**
 
