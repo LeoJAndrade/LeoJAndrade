@@ -1,24 +1,24 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/029/178/822/original/data-science-banner-web-icon-illustration-concept-with-icon-of-analysis-structure-algorithm-process-programming-solving-knowledge-vector.jpg)](https://godr4zor.io)
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A Data Scientist 🎲</h3>
+<h1 align="center">Oi 👋, eu me chamo Leonardo</h1>
+<h3 align="center">Cientista de Dados 🎲</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
-- 🌱 I’m currently learning **Machine Learn**
+- 🌱 Estou aprendendo **Machine Learn**
 
-- 📝 I regularly write articles on **Data Analysis and Machine Learn algorithms**
+- 📝 Trabalho em artigos sobre **Análise de Dados e Algorítmos de Machine Learn**
 
-- 💬 Ask me about **Data concepts**
+- 💬 Pergunte-me sobre **Conceitos de Dados**
 
-- 📫 How to reach me **workmail.leo69@gmail.com**
+- 📫 Entre em contato comigo: **workmail.leo69@gmail.com**
 
-- ⚡ Fun fact **I think i'm really patience to work with**
+- ⚡ Curiosidade **Facilidade para aprender**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-de-jesus-andrade-b82aa3249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo de jesus andrade" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens de Programação e Ferramentas:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sqlazure" width="40 height="40" /> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width"40" height="40" />  </a>        
