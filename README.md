@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **Machine Learn**
 
-- 📝 Trabalho em artigos sobre **Análise de Dados e Algorítmos de Machine Learn**
+- 📝 Trabalho em artigos sobre **Análise de Dados e Algoritmos de Machine Learn**
 
 - 💬 Pergunte-me sobre **Conceitos de Dados**
 
