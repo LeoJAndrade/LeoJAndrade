@@ -26,4 +26,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godr4zor&show_icons=true&locale=en&layout=compact" alt="godr4zor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godr4zor&show_icons=true&locale=en" alt="godr4zor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoJAndrader&show_icons=true&locale=en" alt="LeoJAndrade" /></p>
